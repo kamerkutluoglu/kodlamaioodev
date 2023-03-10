@@ -1,0 +1,27 @@
+#soru1
+#Python'da Veri Tiplerini araştırınız, her bir veri tipi için kendi cümlelerinizle açıklamalar yazınız.
+#veri tipleri
+INTEGER (int)=Tam sayıların tutulduğu veri tipidir.
+FLOAT=Ondalıklı sayıların tutulduğu veri tipidir.
+STRING (str)=Metinsel ifadelerin tutulduğu veri tipidir.
+BOOL=Mantıksal bir veri tipidir
+TYPE=Oluşturulan ve içinde herhangi bir değer atanan değişkenin veri tipini öğrenmek için kullanılır.
+LİST=Birden fazla ifadeyi içinde tutan vektörel veri tipidir.
+
+#soru2
+#Kodlama.io sitesinde değişken olarak kullanıldığını düşündüğünüz verileri, veri tipleriyle birlikte örneklendiriniz.
+string: Sitede kullanılan tüm metinler için string veri tipi kullanılmıştır.
+örneğin; Kurslarım,Kurs Programı,Eğitmeniniz
+integer: Sitede derslerde olan ilerlememizi göstermesi için int komutu kullanılmıştır.
+boolean:  "Bitir ve devam et" butonuna tıklanan alan bool veri tipi kullanılmıştır.
+
+#soru3
+#Kodlama.io sitesinde şart blokları kullanıldığını düşündüğünüz kısımları örneklendiriniz ve Python dilinde bu örnekleri koda dökünüz.
+# Site Giriş Yap Butonu:
+email=kamerk@hotmail.com
+password:12345Ek
+if (email==kamerk@hotmail.com and password==12345Ek)
+print("Giriş sağlanmıştır")
+else: 
+print("Hatalı giriş")
+  
